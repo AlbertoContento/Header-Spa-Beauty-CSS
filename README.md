@@ -39,4 +39,4 @@ Este proyecto se distribuye bajo la Licencia MIT. Consulta el archivo LICENSE pa
 🎨 Capturas de Pantalla
 Aquí tienes una vista previa de cómo luce el proyecto:
 
-![Pantalla Principal](https://github.com/AlbertoContento/Proyecto-BulmaCss/blob/main/media/Captura%20de%20pantalla.png)
+![Pantalla Principal](https://github.com/AlbertoContento/Header-Spa-Beauty-CSS/blob/main/media/Captura%20de%20pantalla.png)
