@@ -26,6 +26,8 @@ Bienvenido al proyecto **Spa & Beauty**, una elegante web diseñada para un cent
    ```
 2. Go Live o abre el archivo index.html en tu navegador preferido
 
+3. Puedes ver el proyecto en esta direccion de github pages: https://albertocontento.github.io/Header-Spa-Beauty-CSS/
+
 💌 Contacto
 Si tienes alguna sugerencia o pregunta, no dudes en ponerte en contacto:
 
